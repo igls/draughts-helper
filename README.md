@@ -1,4 +1,4 @@
 Draughts helpers
 
-[ZIP](/draughts-helper.zip)
+[ZIP](/draughts-helper.zip)  
 [EXE](/draughts-helper.exe)
